@@ -1,1 +1,0 @@
-Vladimir cool man
