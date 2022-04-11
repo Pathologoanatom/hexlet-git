@@ -1,0 +1,10 @@
+
+"""Напишите функцию get_age_difference(), 
+которая принимает два года рождения и возвращает строку с 
+разницей в возрасте в виде The age difference is 11. Например:"""
+
+
+
+def get_age_difference(age1, age2):
+    diff_age = f'{"The age difference is"} {abs(age2 - age1)}'
+    return  str(diff_age)
